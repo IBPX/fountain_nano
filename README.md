@@ -1,7 +1,7 @@
 # fountain_nano
 
-fountain_nano provides `nano` syntax highlighting for Fountain, a lightweight
-screenplay markup language.
+fountain_nano provides `nano` syntax highlighting for
+[Fountain](https://fountain.io/), a lightweight screenplay markup language.
 
 ## Installation
 
