@@ -29,7 +29,7 @@ color brightwhite "^\s*[A-Z]+$|^@.*$"
 color brightwhite "\b[A-Z][A-Z]+\b"
 
 # sluglines
-color brightblack,white "^(INT|EXT|EST|INT\./EXT|INT/EXT|I/E|)\.[^\.].*"
+icolor brightblack,white "^(INT|EXT|EST|INT\./EXT|INT/EXT|I/E|)\.[^\.].*"
 
 # parenthetical
 icolor magenta "^\s*\(.*\)$"
